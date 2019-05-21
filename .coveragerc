@@ -1,0 +1,5 @@
+[run]
+omit=
+    marshmallow_url_params_schema/*,
+    tests/*
+

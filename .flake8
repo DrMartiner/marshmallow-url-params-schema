@@ -1,0 +1,13 @@
+[flake8]
+max-line-length = 79
+exclude =
+    .git,
+    .idea,
+    .vscode,
+    __pycache__,
+    .virtualenv,
+    .tox,
+    *.egg-info,
+    .pytest_cache,
+    .cache,
+    htmlcov
